@@ -140,7 +140,7 @@
     <VMSETTING_IncludePaths>C:/Program Files (x86)/Arduino/libraries;C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries;//psf/Home/Documents/Arduino/libraries;C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino;C:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/micro;../../../hc-sr04;C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/;C:/Program Files (x86)/Arduino/hardware/tools/avr//avr/include/avr/;C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include;C:/Program Files (x86)/Atmel/Studio/7.0/Extensions/ce2i5t3b.z4h/Micro Platforms/default/debuggers/VM_DBG;C:/Program Files (x86)/Atmel/Studio/7.0/Extensions/ce2i5t3b.z4h/Micro Platforms/default/debuggers;</VMSETTING_IncludePaths>
     <VisualMicroSettings>
       <VisualMicroSettings>
-        <arduino.upload.port>COM9</arduino.upload.port>
+        <arduino.upload.port>COM14</arduino.upload.port>
       </VisualMicroSettings>
     </VisualMicroSettings>
   </PropertyGroup>
@@ -232,7 +232,7 @@
     <VMSETTING_IncludePaths>C:/Program Files (x86)/Arduino/libraries;C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries;//psf/Home/Documents/Arduino/libraries;C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino;C:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/micro;../../../hc-sr04;C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/;C:/Program Files (x86)/Arduino/hardware/tools/avr//avr/include/avr/;C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include;C:/Program Files (x86)/Atmel/Studio/7.0/Extensions/ce2i5t3b.z4h/Micro Platforms/default/debuggers/VM_DBG;C:/Program Files (x86)/Atmel/Studio/7.0/Extensions/ce2i5t3b.z4h/Micro Platforms/default/debuggers;</VMSETTING_IncludePaths>
     <VisualMicroSettings>
       <VisualMicroSettings>
-        <arduino.upload.port>COM9</arduino.upload.port>
+        <arduino.upload.port>COM14</arduino.upload.port>
       </VisualMicroSettings>
     </VisualMicroSettings>
   </PropertyGroup>

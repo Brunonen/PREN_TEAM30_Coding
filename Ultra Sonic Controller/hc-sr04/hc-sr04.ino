@@ -37,6 +37,7 @@ void setup() {
  //Setup UART1 (Tx -> PIN 21, Rx -> PIN 20)
  //Baudrate 9600
  Serial1.begin (9600);
+ Serial.begin(9600);
  
  //Set Pin Modes
  pinMode(trigPin01, OUTPUT);
@@ -131,4 +132,12 @@ void loop() {
  Serial1.print(",");
  Serial1.print(distance3);
  Serial1.print("\0");
+ 
+ Serial.print("\n");
+ Serial.print(distance1);
+ Serial.print(",");
+ Serial.print(distance2);
+ Serial.print(",");
+ Serial.print(distance3);
+ Serial.print("\0");
 }
