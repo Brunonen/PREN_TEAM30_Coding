@@ -1,0 +1,7 @@
+// Bei den Messdaten der Distanzsennsoren wäre das verwenden eines Medians sinnvoll, 
+// um einen gegen Messfehler robusten Wert zu erhalten.
+//
+// Ablauf: 
+//  Neuen Messwert hohlen und damit den ältesten Wert im Array ersetzen. (Ringbuffer)
+//  Die Messwerte nach grösse Sortieren
+//  Mittleren Wert bestimmen und diesen zurückgeben
